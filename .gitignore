@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/server/public/static
+/server/public/assets
+/server/public/asset-manifest.json
+/server/public/*.ico
+/server/public/*.html
+/server/public/*.png
+/server/public/*.txt
+/server/public/manifest.json
